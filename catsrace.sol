@@ -418,7 +418,7 @@ contract CatsRace is Context, IBEP20, Ownable {
     uint256 public _taxFee          = 0;
     uint256 public _systemFee    = 16;
     uint256 public _liquidityFee    = 20;
-    uint256 public _swapThreshold   = _tTotal * 5 / 1000; // 150_000_000_000
+    uint256 public _swapThreshold   = _tTotal * 5 / 1000; // 50_000_000_000 ** 10 * 9;
 
     // auto liquidity
     bool public _swapAndLiquifyEnabled = true;
