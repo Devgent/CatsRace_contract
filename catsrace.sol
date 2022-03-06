@@ -403,8 +403,8 @@ contract CatsRace is Context, IBEP20, Ownable {
     mapping (address => bool) public _isExcludedFromAutoLiquidity;
 
     address[] private _excluded;
-    address public _marketingWallet = 0xd6af82Bc0154c6d8Ac46c68cf1ce6b397AEf0C2d; /// ####
-    address public _devWallet = 0xB458798704f004b073cb722ccEa2984dB6D6B4D6; /// ####
+    address public _marketingWallet = 0x21a2150B820baCcba6CEAF62BC06076aea2DE5dc; /// ####
+    address public _devWallet = 0x7F382FE05ACd0C5Fb7b690bAE2cE1e68F2b416aa; /// ####
 
     uint256 private constant MAX = ~uint256(0);
     uint256 private _tTotal = 100_000_000_000_000 * 10**9;
