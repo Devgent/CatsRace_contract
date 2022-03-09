@@ -13,3 +13,7 @@ Liquidity: 4%
 Dev Fee: 8%
 Marketing Fee: 8%
 ```
+
+Customer [@BennyPennie](https://t.me/BennyPennie)
+
+Contract address: [Bscscan](https://bscscan.com/address/0xBd98Fd3edA10ee37Dfac02252D75256790cBA444#code)
